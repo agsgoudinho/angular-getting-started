@@ -1,4 +1,4 @@
-export const products = [
+export const products_const = [
   {
     name: 'Phone XL',
     price: 799,
@@ -12,7 +12,7 @@ export const products = [
   {
     name: 'Phone Standard',
     price: 299,
-    description: ''
+    description: 'My new description'
   }
 ];
 
